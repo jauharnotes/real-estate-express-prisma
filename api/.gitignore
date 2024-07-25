@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+# .env
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package lock file
+package-lock.json
+
+# TypeScript build output (if using TypeScript)
+*.tsbuildinfo
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Docker related files
+# Dockerfile
+# docker-compose.yml
+
+# Yarn and npm cache
+.yarn/
+.npm/
